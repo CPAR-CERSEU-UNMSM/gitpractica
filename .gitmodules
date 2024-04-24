@@ -1,0 +1,3 @@
+[submodule "subpractica"]
+	path = subpractica
+	url = git@github.com:CPAR-CERSEU-UNMSM/subpractica.git
